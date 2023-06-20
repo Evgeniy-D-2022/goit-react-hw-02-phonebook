@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 30px;
+   
+}
+
+.title {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.contacts__title {
+    font-size: 32px;
+}
