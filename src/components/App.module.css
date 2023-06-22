@@ -2,7 +2,7 @@
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    padding: 30px;
+    padding: 40px 100px;
    
 }
 
@@ -13,4 +13,14 @@
 
 .contacts__title {
     font-size: 32px;
+    margin-bottom: 30px;
+}
+
+
+
+.contacts__text {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+    
 }

@@ -34,12 +34,16 @@
     font-weight: 600;
     padding: 10px 18px;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: beige;
+    cursor: pointer;
+
+    
+      &:hover {
+        color: #5240ee;
+        background-color: aqua;
+      }     
 }
 
 
 
-.contacts__list {
-    list-style-type: disc ;
-}
